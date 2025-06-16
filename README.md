@@ -21,6 +21,8 @@ REI AI uses ElizaOS agents to automate the process of finding and analyzing inve
   - Contact information lookup
   - Investment potential scoring
 
+![image](https://github.com/user-attachments/assets/50ec56a9-f102-430d-be74-f90e5ece006d)
+
 ### 2. ElizaOS Integration (Current)
 
 - **Natural Language Interaction**
